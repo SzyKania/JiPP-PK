@@ -7,6 +7,7 @@ void funkcja (void *a, void *b,size_t s){
     memcpy(c,a,s);
     memcpy(a,b,s);
     memcpy(b,c,s);
+    free(c);
 }
 int main(){
     int ai=1;
