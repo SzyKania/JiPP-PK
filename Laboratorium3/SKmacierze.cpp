@@ -1,4 +1,4 @@
-#include "a.hpp"
+#include "SKmacierze.hpp"
 
 macierz::macierz(int x, int y){
     cols_count=y;
