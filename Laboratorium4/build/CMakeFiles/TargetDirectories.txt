@@ -1,0 +1,3 @@
+D:/Downloady/Dokumenty/Szkolne/Studiowanko/semestr3/jipp 202021/lab4v2/build/CMakeFiles/output.dir
+D:/Downloady/Dokumenty/Szkolne/Studiowanko/semestr3/jipp 202021/lab4v2/build/CMakeFiles/edit_cache.dir
+D:/Downloady/Dokumenty/Szkolne/Studiowanko/semestr3/jipp 202021/lab4v2/build/CMakeFiles/rebuild_cache.dir
