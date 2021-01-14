@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/lab6/SKlab6.hpp
+iostream
+-
+vector
+-
+stdlib.h
+-
+fstream
+-
+map
+-
+algorithm
+-
+utility
+-
+
+D:/Downloady/Dokumenty/Szkolne/Studiowanko/semestr3/jipp 202021/lab6/src/SKlab6.cpp
+lab6/SKlab6.hpp
+D:/Downloady/Dokumenty/Szkolne/Studiowanko/semestr3/jipp 202021/lab6/src/lab6/SKlab6.hpp
+
