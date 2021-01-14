@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     HRMS database;
-    Employee employees[10]={{"Jan","Kowalski","wozny","1"},{"Kamil","Makowski","elektryk","2"},{"Teodor","Szulc","mechanik","3"},{"Felicja","Rogowska","ksiegowa","4"},{"Alan","Borkowy","stazysta","5"},{"Gustaw","Tusk","wiceprezes","6"},{"Ryszard","Sliwa","prezes","7"},{"Szymon","Kowal","programista","8"},{"Marianna","Nowak","frontend","9"},{"Marek","Rutek","backend","10"}};
+    Employee employees[10]={{"Jan","Kowalski","wozny ","1"},{"Kamil","Makowski","elektryk","2"},{"Teodor","Szulc","mechanik","3"},{"Felicja","Rogowska","ksiegowa","4"},{"Alan","Borkowy","stazysta","5"},{"Gustaw","Tusk","wiceprezes","6"},{"Ryszard","Sliwa","prezes","7"},{"Szymon","Kowal","programista","8"},{"Marianna","Nowak","frontend","9"},{"Marek","Rutek","backend","10"}};
     database.add(employees[0],"konserwacja",2500.11);
     database.add(employees[1],"konserwacja",2700.9);
     database.add(employees[2],"konserwacja",2600.8); 
