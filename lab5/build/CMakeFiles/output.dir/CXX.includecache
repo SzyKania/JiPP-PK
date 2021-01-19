@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/lab5/SKmacierze.hpp
+iostream
+-
+vector
+-
+fstream
+-
+
+D:/Downloady/Dokumenty/Szkolne/Studiowanko/semestr3/jipp 202021/lab5/src/SKmacierze.cpp
+lab5/SKmacierze.hpp
+D:/Downloady/Dokumenty/Szkolne/Studiowanko/semestr3/jipp 202021/lab5/src/lab5/SKmacierze.hpp
+
